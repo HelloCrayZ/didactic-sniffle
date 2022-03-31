@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello World From animated-memory";
+echo "Hello World From didactic";
 return $_GET['q'];
 
 ?>
